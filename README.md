@@ -2,7 +2,7 @@ I am Researcher at the [Department of Knowledge Technologies](http://kt.ijs.si) 
 
 ## Publications
 
-https://scholar.google.si/citations?hl=en&user=zto4fTQAAAAJ&view_op=list_works
+[Google Scholar](https://scholar.google.si/citations?hl=en&user=zto4fTQAAAAJ&view_op=list_works)
 
 ## Active projects
 
