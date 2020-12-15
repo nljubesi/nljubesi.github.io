@@ -1,0 +1,22 @@
+## nljubesi.github.io
+# Homepage of Nikola Ljubešić
+
+I am Researcher at the [Department of Knowledge Technologies](http://kt.ijs.si) at the Jožef Stefan Institute, and the [Laboratory for Cognitive Modeling](http://lkm.fri.uni-lj.si) at the Faculty for Information and Communication Science, University of Ljubljana.
+
+## Publications
+
+https://scholar.google.si/citations?hl=en&user=zto4fTQAAAAJ&view_op=list_works
+
+## Active projects
+
+MaCoCu: Massive collection and curation of monolingual and bilingual data: focus on under-resourced languages (EU CEF, 2021-2023)
+
+[IMSyPP: Innovative Monitoring Systems and Prevention Policies of Online Hate Speech](http://imsypp.ijs.si) (EU REC, 2020-2022)
+
+[LiLaH: The linguistic landscape of hate speech on social media](http://imsypp.ijs.si) (Flemish-Slovene bilateral, 2019-2023)
+
+## News
+- The SotA NLP technologies for South Slavic languages are available now as a Python package https://pypi.org/project/classla/
+- We are co-organizing the [WMT2020 shared task on similar language translation](http://www.statmt.org/wmt20/similar.html), including Slovene, Croatian and Serbian for the first time to WMT
+- We are co-organizing the [VarDial2020 evaluation campaign](https://sites.google.com/view/vardial2020/evaluation-campaign) with the task of Social Media Geolocation, which includes geo-locating tweets written in Croatian, Bosnian, Montenegrin or Serbian
+- We have set up the [CLASSLA knowledge centre](https://www.clarin.si/info/k-centre/) for language technologies for South Slavic languages, part of [CLARIN ERIC](https://www.clarin.eu)
