@@ -13,7 +13,9 @@ MaCoCu: Massive collection and curation of monolingual and bilingual data: focus
 [LiLaH: The linguistic landscape of hate speech on social media](http://imsypp.ijs.si) (Flemish-Slovene bilateral, 2019-2023)
 
 ## News
-- The SotA NLP technologies for South Slavic languages are available now as a Python package https://pypi.org/project/classla/
+- The SotA transformer model for Bosnian, Croatian, Montenegrin and Serbian - BERTić - has been released via [HuggingFace](https://huggingface.co/CLASSLA/bcms-bertic)
+- I am co-organizing the [VarDial2021 evaluation campaign](https://sites.google.com/view/vardial2021/evaluation-campaign) with the task of Social Media Geolocation, which includes geo-locating tweets written in Croatian, Bosnian, Montenegrin or Serbian
+- The SotA NLP technologies for South Slavic languages are available now as a [Python package](https://pypi.org/project/classla/)
 - We are co-organizing the [WMT2020 shared task on similar language translation](http://www.statmt.org/wmt20/similar.html), including Slovene, Croatian and Serbian for the first time to WMT
-- We are co-organizing the [VarDial2020 evaluation campaign](https://sites.google.com/view/vardial2020/evaluation-campaign) with the task of Social Media Geolocation, which includes geo-locating tweets written in Croatian, Bosnian, Montenegrin or Serbian
-- We have set up the [CLASSLA knowledge centre](https://www.clarin.si/info/k-centre/) for language technologies for South Slavic languages, part of [CLARIN ERIC](https://www.clarin.eu)
+- I am co-organizing the [VarDial2020 evaluation campaign](https://sites.google.com/view/vardial2020/evaluation-campaign) with the task of Social Media Geolocation, which includes geo-locating tweets written in Croatian, Bosnian, Montenegrin or Serbian
+- I helped setting up the [CLASSLA knowledge centre](https://www.clarin.si/info/k-centre/) for language technologies for South Slavic languages, part of [CLARIN ERIC](https://www.clarin.eu)
