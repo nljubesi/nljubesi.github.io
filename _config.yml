@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 logo: photo.png
+github:
+ is_user_page: false
