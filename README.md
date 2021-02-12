@@ -4,6 +4,10 @@ I am Researcher at the [Department of Knowledge Technologies](http://kt.ijs.si) 
 
 [Google Scholar](https://scholar.google.si/citations?hl=en&user=zto4fTQAAAAJ&view_op=list_works)
 
+## Curriculum Vitae
+
+[Download my CV](Ljubesic_cv_2021_en.pdf)
+
 ## Active projects
 
 MaCoCu: Massive collection and curation of monolingual and bilingual data: focus on under-resourced languages (EU CEF, 2021-2023)
