@@ -17,8 +17,8 @@ MaCoCu: Massive collection and curation of monolingual and bilingual data: focus
 [LiLaH: The linguistic landscape of hate speech on social media](http://imsypp.ijs.si) (Flemish-Slovene bilateral, 2019-2023)
 
 ## News
-- A BERTić model fine-tuned on the NER task has been added to [HuggingFace](https://huggingface.co/CLASSLA/bcms-bertic-ner)
-- The SotA transformer model for Bosnian, Croatian, Montenegrin and Serbian - BERTić - has been released via [HuggingFace](https://huggingface.co/CLASSLA/bcms-bertic)
+- A BERTić model fine-tuned on the NER task has been added to [HuggingFace](https://huggingface.co/classla/bcms-bertic-ner)
+- The SotA transformer model for Bosnian, Croatian, Montenegrin and Serbian - BERTić - has been released via [HuggingFace](https://huggingface.co/classla/bcms-bertic)
 - I am co-organizing the [VarDial2021 evaluation campaign](https://sites.google.com/view/vardial2021/evaluation-campaign) with the task of Social Media Geolocation, which includes geo-locating tweets written in Croatian, Bosnian, Montenegrin or Serbian
 - The SotA NLP technologies for South Slavic languages are available now as a [Python package](https://pypi.org/project/classla/)
 - I am co-organizing the [WMT2020 shared task on similar language translation](http://www.statmt.org/wmt20/similar.html), including Slovene, Croatian and Serbian for the first time to WMT
