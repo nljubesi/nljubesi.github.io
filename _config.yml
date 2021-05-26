@@ -4,5 +4,3 @@ description: Personal web page
 logo: photo.png
 github:
  is_user_page: false
-plugins:
- - jekyll-seo-tag
