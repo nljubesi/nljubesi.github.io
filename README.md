@@ -14,6 +14,8 @@ MaCoCu: Massive collection and curation of monolingual and bilingual data: focus
 
 [IMSyPP: Innovative Monitoring Systems and Prevention Policies of Online Hate Speech](http://imsypp.ijs.si) (EU REC, 2020-2022)
 
+[ParlaMint: Towards Comparable Parliamentary Corpora](https://www.clarin.eu/content/parlamint-towards-comparable-parliamentary-corpora) (CLARIN ERIC, 2020-2021)
+
 [LiLaH: The linguistic landscape of hate speech on social media](http://imsypp.ijs.si) (Flemish-Slovene bilateral, 2019-2023)
 
 ## News
