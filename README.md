@@ -1,4 +1,4 @@
-I am Researcher at the [Department of Knowledge Technologies](http://kt.ijs.si) at the Jožef Stefan Institute, and the [Laboratory for Cognitive Modeling](http://lkm.fri.uni-lj.si) at the Faculty for Information and Communication Science, University of Ljubljana.
+I am senior researcher at the [Department of Knowledge Technologies](http://kt.ijs.si) at the Jožef Stefan Institute, and the [Laboratory for Cognitive Modeling](http://lkm.fri.uni-lj.si) at the Faculty for Information and Communication Science, University of Ljubljana.
 
 ## Publications
 
