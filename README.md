@@ -19,7 +19,7 @@ I am senior researcher at the [Department of Knowledge Technologies](http://kt.i
 [LiLaH: The linguistic landscape of hate speech on social media](http://imsypp.ijs.si) (Flemish-Slovene bilateral, 2019-2023)
 
 ## News
-- The [FRENK hate speech dataset in Croatian, English, Slovenian published](http://hdl.handle.net/11356/1433) and transformer models finetuned on the data ([available under the CLASSLA organization's HuggingFace repo](https://huggingface.co/classla))
+- The [FRENK hate speech dataset in Croatian, English, Slovenian](http://hdl.handle.net/11356/1433) published and transformer models finetuned on the data (available under the [CLASSLA organization's HuggingFace repo](https://huggingface.co/classla))
 - I am co-organizing the [WNUT MultiLexNorm shared task on lexical normalization](http://noisy-text.github.io/2021/multi-lexnorm.html)
 - The BERTić model fine-tuned on the NER task has been added to [HuggingFace](https://huggingface.co/classla/bcms-bertic-ner)
 - The SotA transformer model for Bosnian, Croatian, Montenegrin and Serbian - BERTić - has been released via [HuggingFace](https://huggingface.co/classla/bcms-bertic)
