@@ -10,9 +10,9 @@ I am senior researcher at the [Department of Knowledge Technologies](http://kt.i
 
 ## Active projects
 
-[MaCoCu: Massive collection and curation of monolingual and bilingual data: focus on under-resourced languages](https://macocu.eu) (EU CEF, 2021-2023)
+[MEZZANINE: Basic research for development of spoken resources and technologies for Slovene](https://mezzanine.um.si/en/mezzanine-english/) (ARRS, 2022-2025)
 
-[IMSyPP: Innovative Monitoring Systems and Prevention Policies of Online Hate Speech](http://imsypp.ijs.si) (EU REC, 2020-2022)
+[MaCoCu: Massive collection and curation of monolingual and bilingual data: focus on under-resourced languages](https://macocu.eu) (EU CEF, 2021-2023)
 
 [ParlaMint: Towards Comparable Parliamentary Corpora](https://www.clarin.eu/content/parlamint-towards-comparable-parliamentary-corpora) (CLARIN ERIC, 2020-2021)
 
