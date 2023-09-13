@@ -6,7 +6,7 @@ I am senior researcher at the [Department of Knowledge Technologies](http://kt.i
 
 ## Curriculum Vitae
 
-[Download my CV](Ljubesic_cv_2021_en.pdf)
+[Download my CV](Ljubesic_cv_en.pdf)
 
 ## Active projects
 
@@ -19,6 +19,7 @@ I am senior researcher at the [Department of Knowledge Technologies](http://kt.i
 [LiLaH: The linguistic landscape of hate speech on social media](http://imsypp.ijs.si) (Flemish-Slovene bilateral, 2019-2023)
 
 ## News
+- We have released a XLM-R-large model additionally pre-trained on large collections of parliamentary proceedings, named [XLM-R-parla](https://huggingface.co/classla/xlm-r-parla)
 - We have published the pilot versions of the new CLASSLA web corpora for Croatian, Serbian and Slovenian, described in [this blog post](https://www.clarin.si/info/k-centre/classla-web-bigger-and-better-web-corpora-for-croatian-serbian-and-slovenian-on-clarin-si-concordancers/)
 - I recently took on the role of co-president of the [Special interest group in Web as a Corpus](https://www.sigwac.org.uk) of the Association for Computational linguistics, together with Benoît Sagot, and the co-secretaries Veronika Laippala and Pedro Ortiz Suarez; if you are interested in the topic, [join our SIG / mailing list](http://devel.sslmit.unibo.it/mailman/listinfo/sigwac)
 - We participated in preparing the [ParlaMint 3.0 corpus](https://www.clarin.si/info/parlamint-3-0-parliamentary-corpora-release/), adding the proceedings of parliaments of Croatia, Bosnia and Herzegovina, and Serbia
