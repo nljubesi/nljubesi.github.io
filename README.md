@@ -19,6 +19,7 @@ I am senior researcher at the [Department of Knowledge Technologies](http://kt.i
 [LiLaH: The linguistic landscape of hate speech on social media](http://imsypp.ijs.si) (Flemish-Slovene bilateral, 2019-2023)
 
 ## News
+- The official CLASSLA web corpora for all seven South Slavic languages (Slovenian, Croatian, Bosnian, Montenegrin, Serbian, Macedonian, Bulgarian), almost 11 billion words in size, have been published on the [CLARIN.SI concordancer](https://www.clarin.si/ske/#open)
 - We have released a XLM-R-large model additionally pre-trained on large collections of parliamentary proceedings, named [XLM-R-parla](https://huggingface.co/classla/xlm-r-parla)
 - We have published the pilot versions of the new CLASSLA web corpora for Croatian, Serbian and Slovenian, described in [this blog post](https://www.clarin.si/info/k-centre/classla-web-bigger-and-better-web-corpora-for-croatian-serbian-and-slovenian-on-clarin-si-concordancers/)
 - I recently took on the role of co-president of the [Special interest group in Web as a Corpus](https://www.sigwac.org.uk) of the Association for Computational linguistics, together with Benoît Sagot, and the co-secretaries Veronika Laippala and Pedro Ortiz Suarez; if you are interested in the topic, [join our SIG / mailing list](http://devel.sslmit.unibo.it/mailman/listinfo/sigwac)
