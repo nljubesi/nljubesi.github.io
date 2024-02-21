@@ -12,15 +12,15 @@ I am senior researcher at the [Department of Knowledge Technologies](http://kt.i
 
 [MEZZANINE: Basic research for development of spoken resources and technologies for Slovene](https://mezzanine.um.si/en/mezzanine-english/) (ARRS, 2022-2025)
 
-[MaCoCu: Massive collection and curation of monolingual and bilingual data: focus on under-resourced languages](https://macocu.eu) (EU CEF, 2021-2023)
+[EMMA: Embeddings-based techniques for Media Monitoring Applications](https://emma.ijs.si/en/about-project/) (ARRS, 2023-2025)
 
-[ParlaMint: Towards Comparable Parliamentary Corpora](https://www.clarin.eu/content/parlamint-towards-comparable-parliamentary-corpora) (CLARIN ERIC, 2020-2021)
-
-[LiLaH: The linguistic landscape of hate speech on social media](http://imsypp.ijs.si) (Flemish-Slovene bilateral, 2019-2023)
+[ParlaMint: Towards Comparable Parliamentary Corpora](https://www.clarin.eu/content/parlamint-towards-comparable-parliamentary-corpora) (CLARIN ERIC, 2020-2023)
 
 ## News
-- The official CLASSLA web corpora for all seven South Slavic languages (Slovenian, Croatian, Bosnian, Montenegrin, Serbian, Macedonian, Bulgarian), almost 11 billion words in size, have been published on the [CLARIN.SI concordancer](https://www.clarin.si/ske/#open)
-- We have released a XLM-R-large model additionally pre-trained on large collections of parliamentary proceedings, named [XLM-R-parla](https://huggingface.co/classla/xlm-r-parla)
+- (February 2024) The ParlaSpeech parliamentary text+speech datasets of [Croatian (3k hours)](http://hdl.handle.net/11356/1914), [Serbian (1k hours)](http://hdl.handle.net/11356/1834) and [Polish (1k hours)](http://hdl.handle.net/11356/1686) are finally out, also available as [corpora on concordancers](https://www.clarin.si/ske/#dashboard?corpname=parlaspeech_hr) and [HuggingFace datasets](https://huggingface.co/datasets/classla/ParlaSpeech-HR)
+- (February 2024) We are organizing the [DIALECT-COPA shared task](https://sites.google.com/view/vardial-2024/shared-tasks/dialect-copa) in causal commonsense reasoning in dialectal texts! Part of VarDial 2024 @NAACL
+- (October 2023) The official CLASSLA web corpora for all seven South Slavic languages (Slovenian, Croatian, Bosnian, Montenegrin, Serbian, Macedonian, Bulgarian), almost 11 billion words in size, have been published on the [CLARIN.SI concordancer](https://www.clarin.si/ske/#open)
+- (September 2023) We have released a XLM-R-large model additionally pre-trained on large collections of parliamentary proceedings, named [XLM-R-parla](https://huggingface.co/classla/xlm-r-parla)
 - We have published the pilot versions of the new CLASSLA web corpora for Croatian, Serbian and Slovenian, described in [this blog post](https://www.clarin.si/info/k-centre/classla-web-bigger-and-better-web-corpora-for-croatian-serbian-and-slovenian-on-clarin-si-concordancers/)
 - I recently took on the role of co-president of the [Special interest group in Web as a Corpus](https://www.sigwac.org.uk) of the Association for Computational linguistics, together with Benoît Sagot, and the co-secretaries Veronika Laippala and Pedro Ortiz Suarez; if you are interested in the topic, [join our SIG / mailing list](http://devel.sslmit.unibo.it/mailman/listinfo/sigwac)
 - We participated in preparing the [ParlaMint 3.0 corpus](https://www.clarin.si/info/parlamint-3-0-parliamentary-corpora-release/), adding the proceedings of parliaments of Croatia, Bosnia and Herzegovina, and Serbia
