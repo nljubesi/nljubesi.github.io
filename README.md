@@ -16,7 +16,10 @@ I am senior researcher at the [Department of Knowledge Technologies](http://kt.i
 
 [ParlaMint: Towards Comparable Parliamentary Corpora](https://www.clarin.eu/content/parlamint-towards-comparable-parliamentary-corpora) (CLARIN ERIC, 2020-2023)
 
+[POVEJMO: Adaptive Natural Language Processing with Large Language Models]([Adaptive Natural Language Processing with Large Language Models](https://www.cjvt.si/povejmo/en/project/) (ARIS, 2023-2026)
+
 ## News
+- (March 2024) We have released the [Mići Princ text+speech dataset](https://huggingface.co/datasets/classla/Mici_Princ) in Chakavian dialects and have successfully [adapted Whisper-v3-large](https://huggingface.co/classla/whisper-large-v3-mici-princ) to the Chakavian dialects, ensuring a ~40% WER reduction and ~60% CER reduction on unseen speakers
 - (February 2024) The ParlaSpeech parliamentary text+speech datasets of [Croatian (3k hours)](http://hdl.handle.net/11356/1914), [Serbian (1k hours)](http://hdl.handle.net/11356/1834) and [Polish (1k hours)](http://hdl.handle.net/11356/1686) are finally out, also available as [corpora on concordancers](https://www.clarin.si/ske/#dashboard?corpname=parlaspeech_hr) and [HuggingFace datasets](https://huggingface.co/datasets/classla/ParlaSpeech-HR)
 - (February 2024) We are organizing the [DIALECT-COPA shared task](https://sites.google.com/view/vardial-2024/shared-tasks/dialect-copa) in causal commonsense reasoning in dialectal texts! Part of VarDial 2024 @NAACL
 - (October 2023) The official CLASSLA web corpora for all seven South Slavic languages (Slovenian, Croatian, Bosnian, Montenegrin, Serbian, Macedonian, Bulgarian), almost 11 billion words in size, have been published on the [CLARIN.SI concordancer](https://www.clarin.si/ske/#open)
