@@ -14,7 +14,7 @@ I am senior researcher at the [Department of Knowledge Technologies](http://kt.i
 
 [EMMA: Embeddings-based techniques for Media Monitoring Applications](https://emma.ijs.si/en/about-project/) (ARIS, 2023-2025)
 
-[POVEJMO: Adaptive Natural Language Processing with Large Language Models]([Adaptive Natural Language Processing with Large Language Models](https://www.cjvt.si/povejmo/en/project/) (ARIS, 2023-2026)
+[POVEJMO: Adaptive Natural Language Processing with Large Language Models](https://www.cjvt.si/povejmo/en/project/) (ARIS, 2023-2026)
 
 ## News
 - (March 2024) We have released the [Mići Princ text+speech dataset](https://huggingface.co/datasets/classla/Mici_Princ) in Chakavian dialects and have successfully [adapted Whisper-v3-large](https://huggingface.co/classla/whisper-large-v3-mici-princ) to the Chakavian dialects, ensuring a ~40% WER reduction and ~60% CER reduction on unseen speakers
