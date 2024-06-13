@@ -10,11 +10,9 @@ I am senior researcher at the [Department of Knowledge Technologies](http://kt.i
 
 ## Active projects
 
-[MEZZANINE: Basic research for development of spoken resources and technologies for Slovene](https://mezzanine.um.si/en/mezzanine-english/) (ARRS, 2022-2025)
+[MEZZANINE: Basic research for development of spoken resources and technologies for Slovene](https://mezzanine.um.si/en/mezzanine-english/) (ARIS, 2022-2025)
 
-[EMMA: Embeddings-based techniques for Media Monitoring Applications](https://emma.ijs.si/en/about-project/) (ARRS, 2023-2025)
-
-[ParlaMint: Towards Comparable Parliamentary Corpora](https://www.clarin.eu/content/parlamint-towards-comparable-parliamentary-corpora) (CLARIN ERIC, 2020-2023)
+[EMMA: Embeddings-based techniques for Media Monitoring Applications](https://emma.ijs.si/en/about-project/) (ARIS, 2023-2025)
 
 [POVEJMO: Adaptive Natural Language Processing with Large Language Models]([Adaptive Natural Language Processing with Large Language Models](https://www.cjvt.si/povejmo/en/project/) (ARIS, 2023-2026)
 
