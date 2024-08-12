@@ -10,6 +10,8 @@ I am senior researcher at the [Department of Knowledge Technologies](http://kt.i
 
 ## Active projects
 
+[ParlaCAP: Comparing agenda settings across parliaments via the ParlaMint dataset](https://oscars-project.eu) (Horizon Europe, 2024-2026)
+
 [MEZZANINE: Basic research for development of spoken resources and technologies for Slovene](https://mezzanine.um.si/en/mezzanine-english/) (ARIS, 2022-2025)
 
 [EMMA: Embeddings-based techniques for Media Monitoring Applications](https://emma.ijs.si/en/about-project/) (ARIS, 2023-2025)
