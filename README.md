@@ -12,11 +12,15 @@ You can contact me via name dot surname (ljubesic) at ijs dot si.
 
 ## Active projects
 
+[LLMs4EU: Large Language Models for the European Union](https://www.alt-edic.eu/projects/llms4eu/) (Digital Europe, 2025-2028)
+
+[LLM4DH: Large Language Models for Digital Humanities](https://www.cjvt.si/llm4dh/en/project/) (ARIS, 2024-2027)
+
 [ParlaCAP: Comparing agenda settings across parliaments via the ParlaMint dataset](https://oscars-project.eu) (Horizon Europe, 2024-2026)
 
-[MEZZANINE: Basic research for development of spoken resources and technologies for Slovene](https://mezzanine.um.si/en/mezzanine-english/) (ARIS, 2022-2025)
+[EMMA: Embeddings-based techniques for Media Monitoring Applications](https://emma.ijs.si/en/about-project/) (ARIS, 2023-2026)
 
-[EMMA: Embeddings-based techniques for Media Monitoring Applications](https://emma.ijs.si/en/about-project/) (ARIS, 2023-2025)
+[MEZZANINE: Basic research for development of spoken resources and technologies for Slovene](https://mezzanine.um.si/en/mezzanine-english/) (ARIS, 2022-2025)
 
 [POVEJMO: Adaptive Natural Language Processing with Large Language Models](https://www.cjvt.si/povejmo/en/project/) (ARIS, 2023-2026)
 
